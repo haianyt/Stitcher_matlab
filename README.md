@@ -1,2 +1,2 @@
 # Stitcher_matlab
-images stitching
+images stitching algorithm from scratch.
